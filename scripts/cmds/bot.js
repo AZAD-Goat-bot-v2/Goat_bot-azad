@@ -2,7 +2,7 @@ const axios = require("axios");
 
 const mahmuds = 
   ["azad",
-   "bbu",
+   "bby",
    "babu",
    "bbu",
    "👺",
@@ -196,4 +196,4 @@ async function getBotResponse(message) {
     console.error("API Error:", error.message || error);
     return "error janu 🤧🙏";
   }
-  }
+      }
